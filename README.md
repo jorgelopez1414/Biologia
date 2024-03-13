@@ -6,3 +6,4 @@ Primeramente hablaré sobre el tema de la bioquímica.Para ello,haré uso de los
 -https://www.youtube.com/watch?v=gFYwO6fc2Vo (Las sales minerales)
 -https://ehu.eus/biofisica/juanma/mbb/pdf/bq.pdf (Información general de la bioquímica de donde extraeré la información)
 
+
