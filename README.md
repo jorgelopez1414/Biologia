@@ -10,4 +10,8 @@ Primeramente hablaré sobre el tema de la bioquímica.Para ello,haré uso de los
 
 -https://ehu.eus/biofisica/juanma/mbb/pdf/bq.pdf (Información general de la bioquímica de donde extraeré la información)
 
+Los biolementos son aquellos que se dividen en 3 grupo:los bioelementos primarios,secundarios y los terciarios.
 
+Los biolementos primarios,a su vez, en los grupos de moléculas llamadas sacáridos.
+
+Nuevamente,estos se subdividen en en monosacáridos,disacáridos y polisacáridos
